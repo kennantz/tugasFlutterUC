@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521134374613",
+    "project_id": "flutterproject-e57d5",
+    "storage_bucket": "flutterproject-e57d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521134374613:android:899bb31e7841495cb6ac5c",
+        "android_client_info": {
+          "package_name": "com.example.tugas_flutter_baru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521134374613-a0uoc04otq52imahj3ctd115ki46n1n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNT7VFHHJsSoaeuo3dHZok8uletfSXpkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521134374613-a0uoc04otq52imahj3ctd115ki46n1n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
